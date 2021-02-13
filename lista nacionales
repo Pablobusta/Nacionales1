@@ -16,61 +16,61 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8
 https://rckstudio.duckdns.org/hls/live.m3u8
 #EXTINF:-1, CANAL 8
 https://inliveserver.com:1936/10520/10520/playlist.m3u8
-#EXTINF:-1, CANAL 9
+#EXTINF:-1 ,Retro TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1, CANAL 10
+#EXTINF:-1 ,Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1, CANAL 11
+#EXTINF:-1 ,Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-#EXTINF:-1, CANAL 12
+#EXTINF:-1 ,On Radio
 https://tls.cdnz.cl/onradio4/live/playlist.m3u8
 #EXTINF:-1, CANAL 13
 https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
-#EXTINF:-1, CANAL 14
+#EXTINF:-1 ,The Retro Channel
 https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1, CANAL 15
+#EXTINF:-1 ,XTV Music
 https://tls.cdnz.cl:443/xtvmusic/xtvmusic/playlist.m3u8
-#EXTINF:-1, CANAL 16
+#EXTINF:-1 ,Zapping Music
 https://zmlive.zappingtv.com/zm_free/zm.smil/playlist.m3u8
 #EXTINF:-1, CANAL 17
 http://v2.tustreaming.cl/clicktv/index.m3u8
-#EXTINF:-1, CANAL 18
+#EXTINF:-1 ,Kanade TV
 http://207.246.84.143:8080/hls/Kanade.m3u8
-#EXTINF:-1, CANAL 19
+#EXTINF:-1 ,Pop TV
 https://v4.tustreaming.cl/poptv/index.m3u8
-#EXTINF:-1, CANAL 20
+#EXTINF:-1 ,Cine club
 https://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8
 #EXTINF:-1, CANAL 21
 https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/playlist.m3u8
-#EXTINF:-1, CANAL 22
+#EXTINF:-1, FTM Movies
 https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8
 #EXTINF:-1, CANAL 23
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
-#EXTINF:-1, CANAL 24
+#EXTINF:-1 ,Retropalmares
 http://tvretropalmares.com:8090/hls/envivo.m3u8
 #EXTINF:-1, CANAL 25
 https://www.webmedialive.org:1936/8024/8024/playlist.m3u8
-#EXTINF:-1, CANAL 26
+#EXTINF:-1 ,Teleplus
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8
-#EXTINF:-1, CANAL 27
+#EXTINF:-1 ,Telesistema
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
-#EXTINF:-1, CANAL 28
+#EXTINF:-1 ,Wow Tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1, CANAL 29
+#EXTINF:-1 ,Peñavision
 https://tvstreaming.cl:1936/PlanDjTv_15/PlanDjTv_15/playlist.m3u8
-#EXTINF:-1, CANAL 30
+#EXTINF:-1, Exprezion
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 #EXTINF:-1, CANAL 31
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-#EXTINF:-1, CANAL 32
+#EXTINF:-1 ,Mi TV
 http://162.244.80.176:8081/abr/stream/playlist.m3u8
-#EXTINF:-1, CANAL 33
+#EXTINF:-1 ,Locomotion
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:-1, CANAL 34
+#EXTINF:-1 ,Cachipun TV
 https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
 #EXTINF:-1, CANAL 35
 https://tv.streamingchilenos.com:1936/8020/8020/playlist.m3u
-#EXTINF:-1, CANAL 36
+#EXTINF:-1 ,Kids
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8
 #EXTINF:-1, CANAL 37
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8
@@ -86,5 +86,5 @@ https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1, CANAL 43
 https://rt-esp.secure.footprint.net/1102.m3u8
-#EXTINF:-1, CANAL 44
+#EXTINF:-1 ,Telesur
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
