@@ -60,7 +60,7 @@ https://tvstreaming.cl:1936/PlanDjTv_15/PlanDjTv_15/playlist.m3u8?PlaylistM3UCL
 https://tls.cdnz.cl/lapintana/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, Exprezion
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, CANAL 31
+#EXTINF:-1,Orvit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Mi TV
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
