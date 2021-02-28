@@ -33,11 +33,11 @@ https://zmlive.zappingtv.com/zm_free/zm.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,Clicktv
 http://v2.tustreaming.cl/clicktv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Kanade TV
-http://207.246.84.143:8080/hls/Kanade.m3u8?PlaylistM3UCL
+http://207.246.84.143:8080/hls/Kanade.m3u8
 #EXTINF:-1 ,Pop TV
-https://v4.tustreaming.cl/poptv/index.?PlaylistM3UCL
+https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Cine club
-https://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8
+https://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,EvaStream 
 https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,FTM Movies
@@ -47,46 +47,46 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 #EXTINF:-1 ,Retropalmares
 http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
 #EXTINF:-1,Tele Mas
-https://www.webmedialive.org:1936/8024/8024/playlist.m3u8
+https://www.webmedialive.org:1936/8024/8024/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Teleplus
-http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Telesistema
-http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Wow Tv
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Peñavision
-https://tvstreaming.cl:1936/PlanDjTv_15/PlanDjTv_15/playlist.m3u8
+https://tvstreaming.cl:1936/PlanDjTv_15/PlanDjTv_15/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="45166" tvg-name=" Pintana TV" tvg-logo="https://lh3.googleusercontent.com/-tRkb11g6GOI/WoBPJm9cd4I/AAAAAAAAgyc/lrR7FPg27aoiQryOJXRQGuG8FLpKoXxBQCK8BGAs/s132/2018-02-11.png",  Pintana TV
 https://tls.cdnz.cl/lapintana/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, Exprezion
-https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, CANAL 31
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Mi TV
-http://162.244.80.176:8081/abr/stream/playlist.m3u8
+http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Locomotion
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="105940" tvg-name="Anime Loving TV" tvg-logo="https://lh3.googleusercontent.com/-HeQS_tKAA-8/XwePwID2waI/AAAAAAAA2no/QYCSrncPB0EhtQbqhEBEQyqPguxCHCFtQCK8BGAsYHg/s0/2020-07-09.png", Anime Loving TV
 http://animeloving.net/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Cachipun TV
-https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
+https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8?PlaylistM3UCL
 Radio Lado Oscuro TV
-https://tv.streamingchilenos.com:1936/8020/8020/playlist.m3u
+https://tv.streamingchilenos.com:1936/8020/8020/playlist.m3u?PlaylistM3UCL
 #EXTINF:-1 ,Kids
-https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8
+https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,ChavoTV
-https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8
+https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,Airang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,Arte TV Korea
-http://etomatomobile.hscdn.com/artemobile/livestream/playlist﻿.m3u8
+http://etomatomobile.hscdn.com/artemobile/livestream/playlist﻿.m3u8?PlaylistM3UCL
 #EXTINF:-1,CGNTV
-https://live.cgtn.com/cctv-e.m3u8
+https://live.cgtn.com/cctv-e.m3u8?PlaylistM3UCL
 #EXTINF:-1,DW Español
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8?PlaylistM3UCL
 #EXTINF:-1,NHK World
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8?PlaylistM3UCL
 #EXTINF:-1,RT
-https://rt-esp.secure.footprint.net/1102.m3u8
+https://rt-esp.secure.footprint.net/1102.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Telesur
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
