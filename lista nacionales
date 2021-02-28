@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 ,Rewind TV
+#EXTINF:-1 ,RewindTV
 https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Mix 24-7
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8
