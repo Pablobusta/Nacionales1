@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 ,RewindTV
-https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+https://srv2.zcast.com.br/rewindtv/rewindtv/playlist.m3u8
 #EXTINF:-1 ,Conciertos Live
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Mix 24-7
@@ -21,7 +21,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 #EXTINF:-1 ,Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,On Radio K-Pop
-https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
+https://tls.cdnz.cl/onradio4/live/playlist.m3u8
 #EXTINF:-1,Ruidos TV
 https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,The Retro Channel
